@@ -1,0 +1,23 @@
+.dodo {
+    font-size: 25px;
+    font-family: 'Kurale', serif;
+    color: seagreen;
+}
+.krya {
+    font-size: 24px;
+    font-family: 'Ruslan Display', cursive;
+    color: yellowgreen;
+}
+.kart {
+    font-size: 30px;
+    font-family: 'Kurale', serif;
+    color: teal;
+}
+.kart img{
+    width: 400px;
+    height: 300px;
+}
+.ggo {
+    font-size: 30px;
+    font-family: 'Kurale', serif;
+}

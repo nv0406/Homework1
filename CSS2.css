@@ -1,0 +1,15 @@
+#P1 {
+    position: absolute; 
+    left: 100px; 
+    top: 100px; 
+    width: 500px; 
+    padding: 5px; 
+    background: #89a5e6; 
+}
+#P2 {
+    position: absolute; 
+    left: 800px; 
+    top: 100px; 
+    width: 400px;
+    padding: 5px; 
+    background: #cc99ee;}
